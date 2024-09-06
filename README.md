@@ -1,3 +1,2 @@
-# LAB-3-TASKS
+# LAB-3 TASKS
 
-Ths is Text
